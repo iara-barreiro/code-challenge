@@ -1,0 +1,30 @@
+body{ 
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: lightgreen;
+    }
+
+p{
+    color: rgb(235, 91, 175);
+}
+
+div{
+    text-align: center;
+   
+}
+
+#nuevo {
+        background-color: pink;
+        border: none;
+        color: white;
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: none;
+        display: inline-block;
+        font-size: 16px;
+}
+
+.gif{
+    text-align: center;
+    margin-top: 30px;
+
+}
